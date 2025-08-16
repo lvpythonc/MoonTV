@@ -136,8 +136,8 @@
     "subo": {
       "api": "https://subocj.com/api.php/provide/vod",
       "name": "速播资源"
-    }，
-        "yinghua": {
+    },
+    "yinghua": {
       "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
       "name": "樱花资源"
     },
