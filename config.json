@@ -129,10 +129,6 @@
       "api": "http://www.qilinzyz.com/api.php/provide/vod",
       "name": "麒麟资源"
     },
-    "fczy": {
-      "api": "https://fczy908.com/api.php/provide/vod",
-      "name": "蜂巢资源"
-    },
     "hhzy": {
       "api": "https://hhzyapi.com/api.php/provide/vod",
       "name": "豪华资源"
